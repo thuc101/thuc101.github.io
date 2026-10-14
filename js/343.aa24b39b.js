@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue2_template_times_new_roman"]=self["webpackChunkvue2_template_times_new_roman"]||[]).push([[343],{2343(e,t,n){n.r(t),n.d(t,{default:()=>o});var u=function(){var e=this,t=e._self._c;return t("router-view")},a=[];const l={name:"MainLayoutSub"},r=l;var s=n(1656),_=(0,s.A)(r,u,a,!1,null,null,null);const o=_.exports}}]);
+//# sourceMappingURL=343.aa24b39b.js.map
